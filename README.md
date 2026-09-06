@@ -5,11 +5,6 @@
 
 ---
 
-<aside>
-🇻🇳
-
-</aside>
-
 ### **Project Summary**
 
 This thesis investigates covert communication in uplink NOMA systems.  The Truncated Channel Inversion Power Control (TCIPC) technique is employed for public users to create a "shield" and make it challenging for the warden to detect the covert signal.  The thesis analyzes the warden's detection performance (DEP) and users' connection outage probabilities (COPs),  and optimizes the power control parameter to achieve the best effective transmission rate (ECT) under covertness and QoS constraints.  Matlab simulations validate the theoretical analysis and evaluate the impact of system parameters. 
