@@ -33,9 +33,3 @@ This thesis investigates covert communication in uplink NOMA systems.  The Trunc
 - Provided guidelines for selecting the optimal TCIPC parameter to maximize the effective transmission rate.
 - Simulation results show that the effective transmission rate tends to converge and an optimal value exists for the secret user's service rate to maximize ECT.
 
-!z_Fig_1.svg
-
-### Contact
-
-- Email: hieunghiahcmus@gmail.com
-- Linkedin: https://www.linkedin.com/in/nghia-tran-970993267/
